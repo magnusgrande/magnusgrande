@@ -1,5 +1,10 @@
-## Hi there 👋
+#### Magnus Grande (he/him)
+#### 🇳🇴 Norway, Ålesund
 
+
+🧑‍🎓 First year computer science student
+
+🖥️ Learning and using Python and Java
 <!--
 **magnusgrande/magnusgrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

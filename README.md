@@ -1,6 +1,4 @@
-#### Magnus Grande (he/him)
-#### 🇳🇴 Norway, Ålesund
-
+Magnus Grande (he/him)     -      Ålesund, Norway 🇳🇴
 
 🧑‍🎓 First year computer science student
 

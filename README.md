@@ -1,6 +1,6 @@
 Magnus Grande (he/him)     -      Ålesund, Norway 🇳🇴
 
-🧑‍🎓 First year computer science student
+🧑‍🎓 Second year computer science student
 
 🖥️ Learning and using Python and Java
 <!--

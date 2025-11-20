@@ -2,7 +2,7 @@ Magnus Grande (he/him)     -      Ålesund, Norway 🇳🇴
 
 🧑‍🎓 Second year computer science student
 
-🖥️ Learning and using Python and Java
+🖥️ Java and Python
 <!--
 **magnusgrande/magnusgrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
